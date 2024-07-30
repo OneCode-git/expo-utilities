@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'maven-publish'
+apply plugin: 'kotlin-android'
 
 group = 'expo.modules.utilities'
 version = '0.1.0'
